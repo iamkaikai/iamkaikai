@@ -17,4 +17,5 @@ So, whether you're looking for a creative solution, a tech discussion, or a coll
  - [Predictive model for Numerai.ai](https://github.com/iamkaikai/Numerai): A predictive model for the Nuerai.ai market signal tournament.
  - [Kevin Bacon Game](https://github.com/iamkaikai/Object-Oriented-Programming/tree/main/PS-4): A BFS algorithm calculates an actor's "Bacon number" using a tree of shortest paths.
  - [Generative art](https://github.com/iamkaikai/generative-art): Collections of generative art in P5.js
+ - [CareerChat](https://github.com/iamkaikai/CareerChat/tree/main): A WhatsApp chatbot that delivers daily job listings straight to your chat
 
