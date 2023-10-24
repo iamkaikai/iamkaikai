@@ -13,7 +13,7 @@ So, whether you're looking for a creative solution, a tech discussion, or a coll
  - [Airpods-Max](https://github.com/iamkaikai/Airpods-Max): Recreated the responsive front-end of Apple's AirPod Max product page. 
  - [SkimGPT-client](https://github.com/iamkaikai/SkimGPT-client): Chrome extension for webpage summarization, leveraging the ChatGPT API.
  - [SkimGPT-api](https://github.com/iamkaikai/SkimGPT-api): A backend API for a GPT-based web summarizer.
- - [AI projects](https://github.com/iamkaikai/AI-projects-in-Python): Engaging in problem-solving exercises through projects like Chess, Mazeworld, CPS, Circuit Board Layout, Sudoku, and more.
+ - [AI projects](https://github.com/iamkaikai/AI-projects-in-Python): problem-solving exercises through projects like Chess, Mazeworld, CPS, Circuit Board Layout, Sudoku, and more.
  - [Music and AI](https://github.com/iamkaikai/Music-and-AI): Focusing on AI-based systems like VQVAE-based models to generate a 2-min-length music.
  - [Tiny Search Engine](https://github.com/iamkaikai/Tiny-Search-Engine): A search system consists of a Crawler, a Indexer, and a Querier.
  - [Predictive model for Numerai.ai](https://github.com/iamkaikai/Numerai): A predictive model for the Nuerai.ai market signal tournament.
