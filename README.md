@@ -16,7 +16,7 @@ So, whether you're looking for a creative solution, a tech discussion, or a coll
  - [AI projects](https://github.com/iamkaikai/AI-projects-in-Python): problem-solving exercises through projects like Chess, Mazeworld, CPS, Circuit Board Layout, Sudoku, and more.
  - [Music and AI](https://github.com/iamkaikai/Music-and-AI): Focusing on AI-based systems like VQVAE-based models to generate a 2-min-length music.
  - [Tiny Search Engine](https://github.com/iamkaikai/Tiny-Search-Engine): A search system consists of a Crawler, a Indexer, and a Querier.
- - [Predictive model for Numerai.ai](https://github.com/iamkaikai/Numerai): A predictive model for the Nuerai.ai market signal tournament.
+ - [Predictive model for Numer.ai](https://github.com/iamkaikai/Numerai): A predictive model for the Numer.ai market signal tournament.
  - [Kevin Bacon Game](https://github.com/iamkaikai/Object-Oriented-Programming/tree/main/PS-4): A BFS algorithm calculates an actor's "Bacon number" using a tree of shortest paths.
  - [Generative art](https://github.com/iamkaikai/generative-art): Collections of generative art in P5.js
 
