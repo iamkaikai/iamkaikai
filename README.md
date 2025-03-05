@@ -1,9 +1,5 @@
 ### About me
-Hey there, Digital World! 🌐 I'm Kyle, your friendly neighborhood Computer Science grad student from Dartmouth College 🎓. When I'm not diving into algorithms and data structures 📚, you'll find me weaving magic in the realm of design 🎨 and development 💻.
-
-I'm a tech enthusiast with a soft spot for AI 🤖 and a knack for building innovative products 🚀. My playground? Everything from AI to web applications, data structures, web crawling, and even art!
-
-So, whether you're looking for a creative solution, a tech discussion, or a collaborator for your next big idea, I'm your guy! Let's push the boundaries of what's possible, together. 🌟
+Hey, I’m a developer passionate about blending tech creativity with innovative design. I’m experienced in algorithms, data structures, web development, AI, and digital art. My expertise covers building web applications, exploring AI concepts, data-driven products, web crawling, and bridging technology with art.
 
 ### Selected projects:
  - [Amazing_logo](https://github.com/iamkaikai?tab=repositories): AI-generated logo with Stable diffusion and data scraping. Model on [Hugging Face](https://huggingface.co/iamkaikai/amazing-logos)
